@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**donomess/donomess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Donovan Messer
+#### Senior UD Computer Science B.S. student with a focus in Cybersecurity. I also have History and Cybersecurity Minors.. Credit to Ren Ross for these widgets, they aint mine.
+<br></br>
+[![Donovan Messer's GitHub Stats (refresh if you see this)](https://github-readme-stats.vercel.app/api/?username=donomess&showicons=true&count_private=true&theme=react)]()
+<br></br>
+[![GitHub Streak (refresh if you see this)](https://github-readme-streak-stats.herokuapp.com/?user=donomess&theme=dark)](https://git.io/streak-stats)
+<br></br>
+[![trophy (refresh if you see this)](https://github-profile-trophy.vercel.app/?username=donomess&theme=darkhub&row=1&column=9)](https://github.com/ryo-ma/github-profile-trophy)
+<br></br>
+![Metrics (refresh if you see this)](https://metrics.lecoq.io/donomess?template=classic&repositories.forks=true&base.header=0&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&config.timezone=America%2FNew_York)
+<br></br>
