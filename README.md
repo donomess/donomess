@@ -1,5 +1,5 @@
 # Donovan Messer
-#### Senior UD Computer Science B.S. student with a focus in Cybersecurity. I also have History and Cybersecurity Minors.. Credit to Ren Ross for these widgets, they aint mine.
+#### Grad Student at the University of Delaware. I do a little bit of this... little bit of that... something something.
 <br></br>
 [![Donovan Messer's GitHub Stats (refresh if you see this)](https://github-readme-stats.vercel.app/api/?username=donomess&showicons=true&count_private=true&theme=react)]()
 <br></br>
